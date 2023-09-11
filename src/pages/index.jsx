@@ -81,7 +81,7 @@ export const Page = () => {
             Biocrops
             </C.CardsText>
             <C.CardsFrase>
-            Software para auxílio na garantia de qualidade de grãos.
+            Software de auxílio na garantia de qualidade de grãos.
             </C.CardsFrase>
           </C.Cards>
         </C.Projetos>
