@@ -8,3 +8,8 @@ Foi proposto um desafio para ingresso na Fabrica de Tecnologias Turing (FTT) ond
 - JavaScript
 
 ## Como utilizar este projeto
+O primiero passo sera instalar os modulos 
+- npm install
+Depois de instalado colocar para rodar com o comando
+- npm start
+
