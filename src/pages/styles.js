@@ -14,8 +14,7 @@ justify-content: space-between;
 box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
 padding: 0;
 margin: 0;
-z-index: 100000;
-
+z-index: 100000; ;
 
 `;
 
@@ -32,6 +31,7 @@ export const LogoContainer = styled.div`
 display: flex;
 flex-direction: row;
 margin: 0.5em 1em 0 5em;
+cursor: pointer;
 `
 
 export const Logo = styled.img`
@@ -69,6 +69,7 @@ flex-direction: row;
 margin: 1em 1em 1em 1em;
 
 
+
 `
 
 export const Frase = styled.h1`
@@ -90,13 +91,15 @@ margin-left: 10px;
 
 export const SecondaryFrase = styled.h1`
 text-indent:10px;
+margin-top: 2em;
 
 `
 
 
 export const Secondarytext = styled.p`
 text-indent: 40px;
-
+font-size: 1.1em;
+margin-top: 2.5em;
 `
 
 
@@ -204,7 +207,7 @@ border-radius: 0.5em;
 `
 
 export const Contact = styled.div`
-background: linear-gradient(#8BD9BC, #B3F2DB);
+background: #8FD9A1;
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -253,7 +256,7 @@ align-self: center ;
 
 export const Button = styled.button`
 color: #fff;
-background-color: #005346;
+background-color:   #124022;
 border-radius: 0.5em;
 align-self: center;
 width: 26em;
